@@ -1,8 +1,11 @@
+* {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
 #title {
     background-color: rgb(117, 174, 240);
     color: white;
     text-align: center;
-    font-family: Helvetica, Verdana, sans-serif;
     font-size: 40px;
 }
 
@@ -18,11 +21,6 @@
 
 .recipes {
     font-size: 18px;
-    font-family: Helvetica, Verdana, sans-serif;
-}
-
-h1, h2, p, li {
-    font-family: Helvetica, Verdana, sans-serif;
 }
 
 h1, h2 {
