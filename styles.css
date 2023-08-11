@@ -4,3 +4,13 @@
     text-align: center;
     font-family: Helvetica, Verdana, sans-serif;
 }
+
+.home-image {
+    height: 290px;
+    width: 500px;
+}
+
+.recipe-image {
+    height: 300px;
+    width: 500px;
+}
