@@ -5,13 +5,23 @@
 #title {
     background-color: rgb(117, 174, 240);
     color: white;
+    width: 700px;
     text-align: center;
     font-size: 40px;
+    padding: 10px;
+    margin-top: 180px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .home-image {
     height: 290px;
     width: 500px;
+    display: block;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .recipe-image {
@@ -19,11 +29,33 @@
     width: 500px;
 }
 
-.recipes {
-    font-size: 18px;
+.recipe1, .recipe2, .recipe3 {
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    background-color: rgb(241, 132, 132);
+    display: block;
+    margin: 20px auto;
 }
+
+
+.recipe1 {
+    width: 250px;
+}
+
+.recipe2 {
+    width: 300px;
+}
+
+.recipe3 {
+    width: 350px;
+} 
 
 h1, h2 {
     background-color: rgb(241, 132, 132);
     color: white;
+    display: block;
+    width: 300px;
+    padding: 5px;
 }
